@@ -16,8 +16,7 @@
  * - Displays the validation result
  *
  * This introduces transformation-based validation.
- *
- * @author ak1taro
+
  * @version 3.0
  */
 public class UC3PalindromCheckerApp {
